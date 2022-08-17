@@ -4,3 +4,6 @@
 [submodule "Week1/Tuesday/TeamExercise1"]
 	path = Week1/Tuesday/TeamExercise1
 	url = git@github.com:amatzen/TeamExercise1.git
+[submodule "SimpleFortuneCookie"]
+	path = SimpleFortuneCookie
+	url = git@github.com:amatzen/SE05-CD-SimpleFortuneCookie.git
