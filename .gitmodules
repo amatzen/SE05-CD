@@ -1,10 +1,3 @@
-[submodule "GitHubActions/"]
-	url = git@github.com:amatzen/SE05-CD-GHA.git
-	branch = main
-
-[submodule "Tuesday/TeamExercise1/"]
-	url = git@github.com:amatzen/TeamExercise1.git
-	branch = master
 [submodule "GitHubActions"]
 	path = GitHubActions
 	url = git@github.com:amatzen/github-actions-katas.git
