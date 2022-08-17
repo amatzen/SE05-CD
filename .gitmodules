@@ -1,2 +1,3 @@
 [submodule "GitHubActions/"]
 	url = git@github.com:amatzen/SE05-CD-GHA.git
+	branch = main
